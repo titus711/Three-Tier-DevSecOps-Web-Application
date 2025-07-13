@@ -13,3 +13,21 @@ Deploy a secure and scalable three-tier web application on AWS EKS using Docker 
 
 <img width="1914" height="909" alt="Screenshot 2025-07-13 100602" src="https://github.com/user-attachments/assets/f95c241e-49cc-4762-ab7a-37109bd2d86c" />
 
+Give a username to your iam User
+
+<img width="1892" height="920" alt="Screenshot 2025-07-13 100833" src="https://github.com/user-attachments/assets/4eee0c37-3496-4b90-9cde-e59f1f4d9c0d" />
+
+Attach administrative access for testing; for your company project, assign limited policies, and click Create user.
+
+<img width="1904" height="910" alt="Screenshot 2025-07-13 100931" src="https://github.com/user-attachments/assets/a316f02d-1b42-471e-88e6-6e5f43f4c360" />
+
+Now you can create an access key. Click Security Credentials, and click on create access key.
+
+<img width="1905" height="910" alt="Screenshot 2025-07-13 101204" src="https://github.com/user-attachments/assets/b0741591-9ada-4de3-bbc9-cdd810e99291" />
+
+<img width="1902" height="911" alt="Screenshot 2025-07-13 101323" src="https://github.com/user-attachments/assets/eb5ba139-558e-4788-82d5-84679ce23b1f" />
+
+Download the file for later use of the secret key and access key.
+
+<img width="1904" height="910" alt="Screenshot 2025-07-13 101342" src="https://github.com/user-attachments/assets/f20db528-a238-4c1e-a9dc-46f6997feab9" />
+
