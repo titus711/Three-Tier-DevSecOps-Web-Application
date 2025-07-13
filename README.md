@@ -1,5 +1,5 @@
 ### Deploying a Three-Tier DevSecOps Web Application
-A modern devops pipeline intergrating Github, Jenkins, Sonarqube, Maven , Docker ,Helm and Kubernetes. Infrastracture is provisioned using Terraform and configured with Ansible for seamless deployment. Real-time monitoring is achieved with Prometheus and Grafana for full observability.
+Deploy a secure and scalable three-tier web application on AWS EKS using Docker and DevSecOps best practices. This project automates CI/CD with Jenkins, ArgoCD, SonarQube, and Trivy for code quality and security, while Prometheus and Grafana provide real-time monitoring. It leverages AWS services like ECR, S3, EC2, and DynamoDB, with Terraform managing full Infrastructure as Code (IaC) for seamless provisioning and deployment.
 
 
 
